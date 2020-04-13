@@ -1,0 +1,120 @@
+## 3rd Python Class
+
+Agenda:
+
+> Type Casting (Implicit and explicit type casting)
+> List, Tuple, Sets, Dict.
+> Loops(for and while Loop)
+
+
+
+List
+> collection of different datatypes
+> Changeable / mutuable
+> allows duplicate members in it
+> []
+> data storing 
+> a[1] = ""
+
+tuple:
+> Immutuable / Unchangeable
+> duplicate members
+> ()
+> example: latitude and longitude
+
+
+Dict.
+> Key and Value
+> Duplicacy
+> changeable
+> {}
+
+
+len
+how to add item ?
+del
+remove
+clear()
+Nested Diction
+pop()
+push()
+update()
+values()
+key()
+items()
+#### pass
+
+
+#### LOOPS #######
+
+1) While Loop
+
+> Break -- It terminates a loop
+> Continue -- It terminate only a current part but continues with next
+
+
+2) For Loop
+
+
+
+
+####  Function
+	def a():
+		statement
+
+
+	a()
+
+## LIb
+
+	
+
+
+#### PYTHON 4th Class
+
+
+Agenda:
+
+- Functions
+- > normal syntax
+- > parameters
+- > args and Kwargs
+- > default parameter value
+
+
+- Some Python Lib
+- Module( how to make your own Package.. )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
